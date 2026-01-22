@@ -1,0 +1,24 @@
+{
+  "name": "firmar-url-masterclass",
+  "version": "1.0.0",
+  "description": "Proyecto educativo para enseñar URL Signing con HMAC en Node.js",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node --watch src/app.js"
+  },
+  "keywords": [
+    "hmac",
+    "url-signing",
+    "security",
+    "nodejs",
+    "express"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
