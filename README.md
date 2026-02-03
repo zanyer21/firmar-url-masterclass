@@ -2,6 +2,8 @@
 
 Proyecto educativo completo para enseñar el concepto de URL Signing (Firmado de URLs) utilizando HMAC-SHA256 en Node.js.
 
+esto es un text modificado
+
 ## Conceptos Fundamentales
 
 ### Codificar vs Firmar
